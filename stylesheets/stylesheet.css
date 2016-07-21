@@ -159,7 +159,7 @@ a.button span {
   background: transparent url(../images/tar-gz-icon.png) 12px 50% no-repeat;
 }
 #view-on-github span {
-  background: url(../images/AirHornButton.png) 200px no-repeat;
+  background: url(../images/AirHornButton.png) no-repeat;
   background-size: 320px 480px;
 }
 #view-on-github {
